@@ -1,6 +1,6 @@
 # EmpiricalCircumplexModel
 
-Note: This repository contains experimental code for a pre-publication research paper. The license, datasets, and code are subject to change without prior notice.
+**Note:** This repository contains experimental code for a pre-publication research paper. The license, datasets, and code are subject to change without prior notice.
 
 This repository provides the experimental implementation for:
 
