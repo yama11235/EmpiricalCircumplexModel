@@ -1,6 +1,12 @@
 # EmpiricalCircumplexModel
 
-Empirical Circumplex Model for emotion classification using transformers.
+Note: This repository contains experimental code for a pre-publication research paper. The license, datasets, and code are subject to change without prior notice.
+
+This repository provides the experimental implementation for:
+
+Are Emotions Arranged in a Circle? Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning
+
+The code trains a model that embeds emotion representations into a circular structure.
 
 ## Requirements
 
