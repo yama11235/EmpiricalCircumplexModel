@@ -35,4 +35,4 @@ model = BiEncoderForClassification.from_pretrained(model_path)
 
 ## Dataset
 
-This repository provides the dataset constructed in "Detecting Fine-Grained Emotions in Literature" (https://www.mdpi.com/2076-3417/13/13/7502) as an experimental dataset. License information is provided in `dataset/license.txt`.
+This repository provides the preprocessed dataset constructed in "Detecting Fine-Grained Emotions in Literature" (https://www.mdpi.com/2076-3417/13/13/7502) as an experimental dataset. License information is provided in `dataset/license.txt`.
