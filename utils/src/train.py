@@ -2,9 +2,10 @@
 Adapted code from HuggingFace run_glue.py
 
 Author: Ameet Deshpande, Carlos E. Jimenez
-
-Main training script for multi-classifier embedding models.
 """
+
+# Our training script references https://github.com/princeton-nlp/c-sts/blob/main/run_sts.py
+
 import logging
 import os
 import sys
